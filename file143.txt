@@ -1,0 +1,6 @@
+(from linux to linux)
+ssh keygen-t rsa
+ssh-copy-id hostname@targetipaddress
+once again log in to the server via ssh.it wont ask
+
+
